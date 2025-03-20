@@ -2,7 +2,7 @@
 - install wifiManger library "Current version in this project: 2.0.17"
 - install esp_WifiManger futter application :
 - flutter project: "[http://lien](https://github.com/abdearrahmane-z/esp_connect_flutter)".
-- apk file: "[http://lien](https://github.com/abdearrahmane-z/esp_connect_flutter)".
+- apk file: "[http://lien](https://github.com/abdearrahmane-z/esp_connect_flutter)"."Not available now"
 - Connect to your ESP access point from your phone's Wi-Fi settings.
 - Enter the esp_WM application.
 - Choose the router and send the SSID and password to the ESP.
